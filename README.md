@@ -5,5 +5,9 @@ Storyboard removed
 Implementation of an application with SWIFTUI elements
 
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2024-10-09 at 21.17.29.mp4…
+
+
+
+
+https://github.com/user-attachments/assets/40b7e11c-f78b-4fb5-b197-ded839272977
 
